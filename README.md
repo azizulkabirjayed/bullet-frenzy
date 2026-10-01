@@ -1,6 +1,7 @@
 <a id="readme-top"></a>
 # About The Project
-This project was developed as part of the CSE423(Computer Graphics) course [assignment](https://github.com/azizulkabirjayed/10-bullet-frenzy/blob/7fe700213d3e74c1a4fb181b6003dc722f4ca1cf/assignment%2003.pdf) at BRAC University.
+**Bullet Frenzy** is a 3D shooter game built with Python and OpenGL for the CSE423 (Computer Graphics) course [assignment](https://github.com/azizulkabirjayed/10-bullet-frenzy/blob/7fe700213d3e74c1a4fb181b6003dc722f4ca1cf/assignment%2003.pdf) at BRAC University. You control a player in a 3D arena, shoot down enemies that chase you, and try to survive as long as possible. The game supports both third-person and first-person camera views, includes a cheat mode with auto-aim, and tracks your score and remaining lives.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Built With
@@ -45,4 +46,23 @@ The project demo video is available to watch here: <a href="https://www.google.c
 | R | Restart(after game over) | 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+# How To Run
+
+Make sure you have **Python 3.x** and **pip** installed, then follow these steps:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/azizulkabirjayed/10-bullet-frenzy.git
+cd 10-bullet-frenzy
+
+# 2. Install dependencies
+pip install PyOpenGL PyOpenGL_accelerate
+
+# 3. Run the game
+python code.py
+```
+
+The game window will open and you're good to go — see the [Controls](#controls) section below to start playing.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
