@@ -13,10 +13,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# Project Demo Video
-The project demo video is available to watch here: <a href="https://www.google.com/">click here</a>.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 # Features
 * 3D third-person and first-person camera modes
 * Player movement and rotation
@@ -61,8 +57,15 @@ pip install PyOpenGL PyOpenGL_accelerate
 # 3. Run the game
 python code.py
 ```
-
 The game window will open and you're good to go — see the [Controls](#controls) section below to start playing.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
+# Sample Visualizations
+![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/1aa85e30148f68369293aecb32de094ef64f78c6/10/1.gif)
+![Visualization 2](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/1aa85e30148f68369293aecb32de094ef64f78c6/10/2.gif)
+![Visualization 3](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/1aa85e30148f68369293aecb32de094ef64f78c6/10/3.gif)
+![Visualization 4](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/1aa85e30148f68369293aecb32de094ef64f78c6/10/4.gif)
+![Visualization 5](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/1aa85e30148f68369293aecb32de094ef64f78c6/10/5.gif)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
